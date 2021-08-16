@@ -7,3 +7,4 @@ comment:
   branches: # branch names that can post comment
     - "master"
     - "dev"
+    - "mcaj"
